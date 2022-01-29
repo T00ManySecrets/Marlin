@@ -612,7 +612,7 @@
 //============================== Delta Settings =============================
 //===========================================================================
 // Enable DELTA kinematics and most of the default configuration for Deltas
-#define DELTA
+//#define DELTA
 
 #if ENABLED(DELTA)
 
